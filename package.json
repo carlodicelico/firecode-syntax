@@ -1,7 +1,7 @@
 {
   "name": "firecode-syntax",
   "theme": "syntax",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A port of the FireCode theme by MarkMichos",
   "repository": "https://github.com/carlodicelico/firecode-syntax",
   "license": "MIT",
